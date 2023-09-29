@@ -1,0 +1,13 @@
+p {
+  font-size: 20px;
+}
+
+.title {
+  border: 3px solid black;
+  width: 600px;
+  color: white;
+}
+
+h1 {
+  font-size: 55px;
+}

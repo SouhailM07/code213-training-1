@@ -1,0 +1,22 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("./assets/bg-intro-desktop.png");
+  background-color: salmon;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 90vw;
+  margin: auto;
+}
+
+#center {
+  height: 100vh;
+  display: flex;
+}
